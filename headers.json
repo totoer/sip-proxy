@@ -1,0 +1,12 @@
+{
+    "request": {
+        "INVITE": {
+            "Some-Header": "Some value"
+        }
+    },
+    "response": {
+        "200": {
+            "FooHeader": "value"
+        }
+    }
+}
